@@ -1,0 +1,126 @@
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\appsettings.json
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\Proyecto 1.staticwebassets.runtime.json
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\Proyecto 1.exe
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\Proyecto 1.deps.json
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\Proyecto 1.runtimeconfig.json
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\Proyecto 1.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\Proyecto 1.pdb
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\Proyecto 1.csproj.AssemblyReference.cache
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\Proyecto 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\Proyecto 1.AssemblyInfoInputs.cache
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\Proyecto 1.AssemblyInfo.cs
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\Proyecto 1.csproj.CoreCompileInputs.cache
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\Proyecto 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\Proyecto 1.RazorAssemblyInfo.cache
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\Proyecto 1.RazorAssemblyInfo.cs
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\staticwebassets\msbuild.Proyecto 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\staticwebassets\msbuild.build.Proyecto 1.props
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto 1.props
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Proyecto 1.props
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\scopedcss\bundle\Proyecto 1.styles.css
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\scopedcss\projectbundle\Proyecto 1.bundle.scp.css
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\Proyecto 1.csproj.CopyComplete
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\Proyecto 1.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\refint\Proyecto 1.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\Proyecto 1.pdb
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\Proyecto 1.genruntimeconfig.cache
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto 1\obj\Debug\net7.0\ref\Proyecto 1.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\appsettings.json
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\Proyecto 1.staticwebassets.runtime.json
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\Proyecto 1.exe
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\Proyecto 1.deps.json
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\Proyecto 1.runtimeconfig.json
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\Proyecto 1.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\Proyecto 1.pdb
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\Proyecto 1.csproj.AssemblyReference.cache
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\Proyecto 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\Proyecto 1.AssemblyInfoInputs.cache
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\Proyecto 1.AssemblyInfo.cs
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\Proyecto 1.csproj.CoreCompileInputs.cache
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\Proyecto 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\Proyecto 1.RazorAssemblyInfo.cache
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\Proyecto 1.RazorAssemblyInfo.cs
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\staticwebassets\msbuild.Proyecto 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\staticwebassets\msbuild.build.Proyecto 1.props
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto 1.props
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Proyecto 1.props
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\scopedcss\bundle\Proyecto 1.styles.css
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\scopedcss\projectbundle\Proyecto 1.bundle.scp.css
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\Proyecto 1.csproj.CopyComplete
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\Proyecto 1.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\refint\Proyecto 1.dll
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\Proyecto 1.pdb
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\Proyecto 1.genruntimeconfig.cache
+C:\Users\DLeon\Desktop\Diego\Universidad 2023 - semestre 1\Pr. Desarrollo e integracion de soluciones\Proyecto_1\obj\Debug\net7.0\ref\Proyecto 1.dll
